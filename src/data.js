@@ -8,7 +8,7 @@ import youtubeIcon from './global-styles/icons/youtube.svg'
 const navbar = {
     'home': '/',
     'name':'Hrithik Bansal',
-    'title':'Coder in the Day. Entreprenuer by Night.',
+    'title':'Coder. Maker. Entreprenuer.',
     'links': [
         { 
             'link_name': 'Software',
@@ -173,10 +173,10 @@ const business = {
         },
         {
             'name':'Quiz Buzzers for Rent',
-            'logo':'https://images.theconversation.com/files/253868/original/file-20190115-152968-32dwx7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop',
+            'logo':'https://raw.githubusercontent.com/lasnab/website-legacy/master/qbz.png',
             'description':'Providing Affordable Buzzer Systems on Rent to Facilitate Competitive Quizzes',
             'website':'#',
-            'status':'Deprecated'
+            'status':'Terminated'
         },
         {
             'name':'',
@@ -205,9 +205,9 @@ const header = {
     // 'candid':'https://i.pinimg.com/originals/bd/c0/4a/bdc04aa22b605a4faac51d2fcb7b9122.jpg',
     'candid':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/me.png',
     'name':'Hi, I\'m Hrithik',
-    'title':'Coder in the day, Chef by night. Full Time Entreprenuer and Innovator',
+    'title':'\"I believe in creative problem solving and hands-on learning\"',
     'text':
-            'I am a coder, a maker, an entrepreneur and a chef (sometimes :p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food.In my free time, I’m usually reading a book, or trying to learn something new.'
+            'I am a coder, a maker, an entrepreneur and a chef (sometimes :p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food. In my free time, I’m usually reading a book, or trying to learn something new.'
 }
 
 export {
