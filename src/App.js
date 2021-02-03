@@ -11,7 +11,7 @@ import Home from './components/Home/Home'
 function App() {
   return (
     <Router>
-      <div className='app debug flex-column pv5 pv0-ns'>
+      <div className='app flex-column pv5 pv0-ns'>
         <NavBar />
         <Switch>
           <Route path='/software'><Software /></Route>
