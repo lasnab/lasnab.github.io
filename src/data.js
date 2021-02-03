@@ -174,8 +174,8 @@ const footer = {
 const wakatime = 'https://wakatime.com/share/@29aea669-cbee-443c-8bd3-2fc3f761f79c/a7bb28b7-f3ab-4bae-807d-ff9be0b7e5be.png'
 
 const header = {
-    'candid':'https://i.pinimg.com/originals/bd/c0/4a/bdc04aa22b605a4faac51d2fcb7b9122.jpg',
-    // 'candid':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/me.png',
+    // 'candid':'https://i.pinimg.com/originals/bd/c0/4a/bdc04aa22b605a4faac51d2fcb7b9122.jpg',
+    'candid':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/me.png',
     'name':'Hi, I\'m Hrithik',
     'title':'Coder in the day, Chef by night. Full Time Entreprenuer and Innovator',
     'text':
