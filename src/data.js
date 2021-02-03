@@ -160,6 +160,34 @@ const softwares = [
     // }
 ]
 
+const business = {
+    'title':'Entreprenuership',
+    'description':'I ❤️ Sales!',
+    'ventures':[
+        {
+            'name':'All Time Protection',
+            'logo':'https://img1.wsimg.com/isteam/ip/bd12721d-9919-476a-8b14-383c84f1e5a2/ALL%20TIME%20PROTECTION-0001.png/:/rs=h:400/qt=q:95',
+            'description':'Empowering Women Tailors through Outsourced Diversification of Mask Manufacturing',
+            'website':'https://alltimeprotection.com/',
+            'status':'Active'
+        },
+        {
+            'name':'Quiz Buzzers for Rent',
+            'logo':'https://images.theconversation.com/files/253868/original/file-20190115-152968-32dwx7.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop',
+            'description':'Providing Affordable Buzzer Systems on Rent to Facilitate Competitive Quizzes',
+            'website':'#',
+            'status':'Deprecated'
+        },
+        {
+            'name':'',
+            'logo':'',
+            'description':'',
+            'website':'',
+            'status':''
+        }
+    ]
+}
+
 const footer = {
     'title':'built with 💙 by Hrithik',
     'links':[
@@ -179,7 +207,7 @@ const header = {
     'name':'Hi, I\'m Hrithik',
     'title':'Coder in the day, Chef by night. Full Time Entreprenuer and Innovator',
     'text':
-            'I am a coder, a maker, an entrepreneur and a chef (sometimes: p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food.In my free time, I’m usually reading a book, or trying to learn something new.'
+            'I am a coder, a maker, an entrepreneur and a chef (sometimes :p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food.In my free time, I’m usually reading a book, or trying to learn something new.'
 }
 
 export {
@@ -188,4 +216,5 @@ export {
     footer,
     wakatime,
     header,
+    business
 }

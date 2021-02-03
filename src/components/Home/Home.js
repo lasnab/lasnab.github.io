@@ -4,7 +4,7 @@ import { header } from '../../data'
 function Home() {
     const {candid, name, title, text } = header
     return (
-        <div className='flex flex-wrap justify-center ma4'>
+        <div className='flex flex-wrap justify-center ma4 mv5-m'>
             <div className='tc pa3 pa5-ns'>
                 <img src={candid} className="db ba b--black-20 mw5 center" alt="candid" />
                 <p className='f6 fw1 black-65'>QCreative Picnic :: Oct. 6/2019</p>
