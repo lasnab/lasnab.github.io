@@ -5,7 +5,7 @@ function Section({ id, title, text, url, link, iframe}) {
     (
         <div id={id} className='tc pa3 pa4-ns'>
             <div className='f3 f2-l fw7 lh-title mt0 mb2'>{title}</div>
-            <iframe title={title} src={iframe} frameborder='0' width='640' height='389' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'/>
+            <iframe className='mw8-ns mw5' title={title} src={iframe} frameborder='0' width='640' height='389' allowfullscreen='true' mozallowfullscreen='true' webkitallowfullscreen='true'/>
         </div>
     )
     :
