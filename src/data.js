@@ -205,15 +205,15 @@ const home = {
     'images': [
         {
             'src':'https://raw.githubusercontent.com/lasnab/helping-hand/master/logo.png',
-            'project':'hrithikbansal.com/software'
+            'project':'/software'
         },
         {
             'src':'https://raw.githubusercontent.com/lasnab/blinky/main/logo.png',
-            'project':'hrithikbansal.com/software'
+            'project':'/software'
         },
         {
             'src':'https://raw.githubusercontent.com/lasnab/spotify-clone/master/logo.png',
-            'project':'hrithikbansal.com/software'
+            'project':'/software'
         },
     ],
     'header': {
