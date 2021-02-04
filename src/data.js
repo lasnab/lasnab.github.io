@@ -201,13 +201,61 @@ const footer = {
 
 const wakatime = 'https://wakatime.com/share/@29aea669-cbee-443c-8bd3-2fc3f761f79c/a7bb28b7-f3ab-4bae-807d-ff9be0b7e5be.png'
 
-const header = {
-    // 'candid':'https://i.pinimg.com/originals/bd/c0/4a/bdc04aa22b605a4faac51d2fcb7b9122.jpg',
-    'candid':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/me.png',
-    'name':'Hi, I\'m Hrithik',
-    'title':'\"I believe in creative problem solving and hands-on learning\"',
-    'text':
-            'I am a coder, a maker, an entrepreneur and a chef (sometimes :p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food. In my free time, I’m usually reading a book, or trying to learn something new.'
+const home = {
+    'header': {
+        // 'candid':'https://i.pinimg.com/originals/bd/c0/4a/bdc04aa22b605a4faac51d2fcb7b9122.jpg',
+        'candid':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/me.png',
+        'name':'Hi, I\'m Hrithik',
+        'title':'\"I believe in creative problem solving and hands-on learning\"',
+        'text':
+                'I am a coder, a maker, an entrepreneur and a chef (sometimes :p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food. In my (limited) free time, I’m usually reading a book, or trying to learn something new.'
+    },
+    'sections':[
+        {
+            'title':'Design Philosophy 🔗 ',
+            'id':'design',
+            'text':'',
+            'url':'#design',
+            'link':'',
+            'iframe':'https://docs.google.com/presentation/d/e/2PACX-1vTX5NLSHDE-qXtwD8EPtA9cHF6DWiqLkm2-thBGlpeWdPc9MgPBw_VS15urn8k99g/embed?start=true&loop=false&delayms=3000'
+        },
+        {
+            'title':'Network with me 🤝',
+            'id':'network',
+            'text':'I love to network with other entreprenuers, industry professsionals, students, and people! Connect with me on linkedin here, but don’t be shy, send me a message so I know you are an actual person and not a bot :p',
+            'url':'#network',
+            'link':'linkedin.hrithikbansal.com',
+            'iframe':''
+        },
+        {
+            'title':'Book Recommendations 🔗 ',
+            'id':'',
+            'text':'',
+            'url':'',
+            'link':'',
+            'iframe':''
+        },
+        {
+            'title':'Favorite Quotes 🔗 ',
+            'id':'',
+            'text':'',
+            'url':'',
+            'link':'',
+            'iframe':''    
+        },
+        {
+            'title':'Collaborate with Me 🔥',
+            'id':'collaborate',
+            'text':'Send me a message if you think I can help you out on your next project. If not, I have a bunch of ideas but not so much time to work on them. If you want to collaborate, hit me up and we can work on it!',
+            'url':'#collaborate',
+            'link':'mailto: hrithik [at] umd [dot] edu',
+            'iframe':''       
+        },
+    ],
+    'hireme':{
+        'text':'Do you like how I think? Think maybe I can be a good fit at your company? Here is my resume, reach out to me! I always welcome exciting challenges!    ',
+        'resume':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/resume.pdf'
+    },
 }
 
 export {
@@ -215,6 +263,6 @@ export {
     softwares,
     footer,
     wakatime,
-    header,
+    home,
     business
 }
