@@ -229,9 +229,17 @@ const home = {
             'title':'Design Philosophy 🔗 ',
             'id':'design',
             'text':'',
-            'url':'#design',
+            'url':'https://docs.google.com/presentation/d/e/2PACX-1vTX5NLSHDE-qXtwD8EPtA9cHF6DWiqLkm2-thBGlpeWdPc9MgPBw_VS15urn8k99g/embed?start=true&loop=false&delayms=3000',
             'link':'',
             'iframe':'https://docs.google.com/presentation/d/e/2PACX-1vTX5NLSHDE-qXtwD8EPtA9cHF6DWiqLkm2-thBGlpeWdPc9MgPBw_VS15urn8k99g/embed?start=true&loop=false&delayms=3000'
+        },
+        {
+            'title':'Skills 🚀',
+            'id':'skills',
+            'text':'',
+            'url':'',
+            'link':'',
+            'iframe':''
         },
         {
             'title':'Network with me 🤝',
@@ -272,11 +280,65 @@ const home = {
     },
 }
 
+const skills = {
+    'lang':[
+        'Python',
+        'JavaScript',
+        'C',
+        'GNU Bash',
+        'Ruby',
+        'Java',	
+        'C++',
+        'HTML5',
+        'CSS3',
+        'OCaml',
+        'Racket',
+        'LaTeX'
+    ],
+    'frame':[	
+        'React',
+        'Node.js',
+        'Express',
+        'Docker',
+        'Flask',
+        'Jupyter',
+        'Git',
+        'OpenSSL',
+        'Nodemon',
+        'NPM',
+        'NumPy',
+        'pandas',
+        'scikit-learn',
+        'OpenCV',
+        'Ruby on Rails',
+        'Django',
+        'Jinja',
+        'GitHub',
+        'PostgreSQL',
+        'Material-UI'
+    ],
+    'tech':[
+        'Arduino',
+        'Raspberry Pi',
+        'Linux',
+        'Postman',
+        'Mathworks',
+        'Homebrew'
+    ],
+    'proto':[
+        'MakerBot',      
+        'Adobe Illustrator',
+        'Adobe XD',
+        'Autodesk',
+    ]
+}
+
 export {
     navbar,
     softwares,
     footer,
     wakatime,
     home,
-    business
+    business,
+    skills
 }

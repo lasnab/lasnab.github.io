@@ -1,11 +1,13 @@
 import React from 'react'
 import Section from './Section.js'
 import Carousel from './Carousel'
-import { home } from '../../data'
+// import Icons from '../Icons/Icons'
+import { home, skills } from '../../data'
 
 function Home() {
     const { images, header, sections, hireme } = home
     const {candid, name, title, text } = header
+    // const { lang, frame, tech, proto } = skills
 
     return (
         <div className='flex flex-wrap justify-center items-start ma4 mt5-ns mb5-ns'>
