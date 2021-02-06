@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lasnab.github.io/static/css/main.f48922c9.chunk.css",
-    "main.js": "/lasnab.github.io/static/js/main.75a2561f.chunk.js",
-    "main.js.map": "/lasnab.github.io/static/js/main.75a2561f.chunk.js.map",
+    "main.js": "/lasnab.github.io/static/js/main.96adb6ec.chunk.js",
+    "main.js.map": "/lasnab.github.io/static/js/main.96adb6ec.chunk.js.map",
     "runtime-main.js": "/lasnab.github.io/static/js/runtime-main.762724fb.js",
     "runtime-main.js.map": "/lasnab.github.io/static/js/runtime-main.762724fb.js.map",
     "static/css/2.d1014cf0.chunk.css": "/lasnab.github.io/static/css/2.d1014cf0.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.d1014cf0.chunk.css",
     "static/js/2.6ef779df.chunk.js",
     "static/css/main.f48922c9.chunk.css",
-    "static/js/main.75a2561f.chunk.js"
+    "static/js/main.96adb6ec.chunk.js"
   ]
 }
