@@ -294,7 +294,7 @@ const home = {
     ],
     'hireme':{
         'text':'Do you like how I think? Think maybe I can be a good fit at your company? Here is my resume, reach out to me! I always welcome exciting challenges!    ',
-        'resume':'resume.hrithikbansal.com'
+        'resume':'https://drive.google.com/file/d/1Up6DxqgfG-k5yL_Yv1dOfJQtDIkpy2R4/view'
     },
 }
 
