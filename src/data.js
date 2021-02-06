@@ -64,6 +64,24 @@ const softwares = [
         ]
     },
     {
+        'name':'Froggy Face Detect',
+        'image':'https://raw.githubusercontent.com/lasnab/froggy/master/logo.png',
+        'links':[
+            {
+                'name':'GitHub',
+                'url':'https://github.com/lasnab/froggy'
+            },
+            {
+                'name':'Video',
+                'url':'https://youtu.be/PqTTv55x7qo'
+            },
+            {
+                'name':'Live',
+                'url':'https://froggy-lasnab.herokuapp.com/'
+            }
+        ]
+    },
+    {
         'name':'Robofriends',
         'image':'https://raw.githubusercontent.com/lasnab/robofriends/main/logo.png',
         'links':[
