@@ -294,7 +294,7 @@ const home = {
     ],
     'hireme':{
         'text':'Do you like how I think? Think maybe I can be a good fit at your company? Here is my resume, reach out to me! I always welcome exciting challenges!    ',
-        'resume':'https://raw.githubusercontent.com/lasnab/lasnab.github.io/master/resume.pdf'
+        'resume':'https://github.com/lasnab/lasnab.github.io/master/resume.pdf'
     },
 }
 
