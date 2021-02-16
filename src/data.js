@@ -233,6 +233,15 @@ const home = {
             'src':'https://raw.githubusercontent.com/lasnab/spotify-clone/master/logo.png',
             'project':'/software'
         },
+        {
+            'src':'https://raw.githubusercontent.com/lasnab/website-legacy/master/values.png',
+            'project':'/software'
+        },
+        {
+            'src':'https://raw.githubusercontent.com/lasnab/website-legacy/master/scroll.png',
+            'project':'/software'
+        },
+        
     ],
     'header': {
         // 'candid':'https://i.pinimg.com/originals/bd/c0/4a/bdc04aa22b605a4faac51d2fcb7b9122.jpg',
@@ -240,7 +249,7 @@ const home = {
         'name':'Hi, I\'m Hrithik',
         'title':'\"I believe in creative problem solving and hands-on learning\"',
         'text':
-                'I am a coder, a maker, an entrepreneur and a chef (sometimes :p). I enjoy solving problems creatively, whether its traversing a binary tree, debugging a 3D print, dealing with clients or just balancing out the spice in my food. In my (limited) free time, I’m usually reading a book, or trying to learn something new.'
+                'I love Delivering Remarkable experiences, and turning ‘unrealistic’ Ideas into Reality using my combined passion for Software Development, Rapid Prototyping, and Entrepreneurship. I don’t mind ambiguity, and can comfortably work, be it on the front-end User Interface, or get into the details of the lower level implementation. I love to apply theory concepts to practical applications, and see ideas come to life! I’m an enthusiastic about learning new technologies, and always keep up to date with the latest developments in tech.'
     },
     'sections':[
         {
