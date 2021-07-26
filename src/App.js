@@ -1,5 +1,5 @@
 import './global-styles/App.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import NavBar from './components/NavBar/NavBar'
 import Footer from './components/Footer/Footer'
 import Software from './components/Software/Software'
