@@ -284,7 +284,7 @@ const home = {
       id: 'network',
       text: 'I love to network with other entreprenuers, industry professsionals, students, and people! Connect with me on linkedin here, but don’t be shy, send me a message so I know you are an actual person and not a bot :p',
       url: '#network',
-      link: 'linkedin.hrithikbansal.com',
+      link: 'https://www.linkedin.com/in/hrithikb/',
       iframe: '',
     },
     {

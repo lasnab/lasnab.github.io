@@ -30,7 +30,11 @@ function Section({ id, title, text, url, link, iframe }) {
         </div>
         <div className="f5 mb2 mw8">{text}</div>
         <div className="mb4">
-          <a href={link} className="hover-black blue b f5 no-underline">
+          <a
+            href={link}
+            target="_blank"
+            className="hover-black blue b f5 no-underline"
+          >
             {id} 🔗
           </a>
         </div>
