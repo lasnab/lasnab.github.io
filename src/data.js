@@ -4,6 +4,7 @@ import linkedinIcon from './global-styles/icons/linkedin.svg';
 import behanceIcon from './global-styles/icons/behance.svg';
 import vimeoIcon from './global-styles/icons/vimeo.svg';
 import youtubeIcon from './global-styles/icons/youtube.svg';
+import resumeIcon from './global-styles/icons/resume.svg';
 
 const navbar = {
   home: '/',
@@ -224,6 +225,10 @@ const footer = {
     { icon: youtubeIcon, url: 'https://www.youtube.com/user/MrHrithik7' },
     { icon: vimeoIcon, url: 'https://vimeo.com/bansalhrithik' },
     { icon: behanceIcon, url: 'https://www.behance.net/hrithikbansal' },
+    {
+      icon: resumeIcon,
+      url: 'https://drive.google.com/file/d/1Up6DxqgfG-k5yL_Yv1dOfJQtDIkpy2R4/view',
+    },
   ],
 };
 
