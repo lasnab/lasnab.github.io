@@ -22,6 +22,10 @@ const navbar = {
             'link_name': 'Entreprenuership',
             'link_path': 'entreprenuer'
         },
+        {
+            'link_name': 'Resume',
+            'external_link_path': 'https://drive.google.com/file/d/1Up6DxqgfG-k5yL_Yv1dOfJQtDIkpy2R4/view'
+        },
     ]
 }
 
