@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import AliceCarousel from 'react-alice-carousel';
 import 'react-alice-carousel/lib/alice-carousel.css';
 
@@ -6,9 +7,9 @@ function Carousel({ images }) {
   let items = images.map((image) => {
     return (
       <div className="tc mt4 mt5-m mb0-ns mb5">
-        <a className="dim" href={image.project}>
+        <Link className="dim" to={image.project}>
           <img src={image.src} alt="scroll down" />
-        </a>
+        </Link>
       </div>
     );
   });
