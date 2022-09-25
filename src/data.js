@@ -187,6 +187,25 @@ const softwares = [
   // }
 ];
 
+const hardwares = [
+  {
+    name: 'The Hand Mimic Clone',
+    image:
+      'https://raw.githubusercontent.com/lasnab/spotify-clone/master/logo.png',
+    links: [
+      {
+        name: 'GitHub',
+        url: 'https://github.com/lasnab/hardware/tree/main/hand-mimic',
+      },
+      {
+        name: 'Video',
+        url: 'https://player.vimeo.com/video/148918195?h=88025090dcG-6_7ZPfT08',
+      },
+    ],
+    description: '',
+  },
+];
+
 const business = {
   title: 'Entreprenuership',
   description: 'I ❤️ Sales!',
@@ -372,4 +391,13 @@ const skills = {
   proto: ['MakerBot', 'Adobe Illustrator', 'Adobe XD', 'Autodesk'],
 };
 
-export { navbar, softwares, footer, wakatime, home, business, skills };
+export {
+  navbar,
+  softwares,
+  hardwares,
+  footer,
+  wakatime,
+  home,
+  business,
+  skills,
+};
